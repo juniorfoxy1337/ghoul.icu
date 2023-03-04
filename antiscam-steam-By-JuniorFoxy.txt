@@ -1,4 +1,4 @@
-Update 05.03.2022 2:06
+Update 05.03.2022 2:15
 --
 Links to rogue profiles and sites in Steam
 Ссылки на мошеннические профили и сайты  из Steam
@@ -22,3 +22,4 @@ http://steamcommunity.com/profiles/76561198128743190/
 http://steamcommunity.com/id/nicerazymc
 http://steamcommunity.com/profiles/76561198101326215
 https://steamcommunity.com/id/alexbogd/
+http://dl.waix.ru/82f790d44.zip
